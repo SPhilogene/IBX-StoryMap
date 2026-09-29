@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":1,"geometry":null,"properties":{"OBJECTID":1,"Shape__Length":74364.112868676501}}]
+}
