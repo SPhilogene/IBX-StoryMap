@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "StationNam": "Grand Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.886318998130164, 40.730915985954987 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Eliot Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.884869080223794, 40.722394768938294 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Myrtle Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.894509982540455, 40.700901776168919 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Linden Blvd" }, "geometry": { "type": "Point", "coordinates": [ -73.900298057095497, 40.657419987361436 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Remsen Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.913729149804269, 40.647187492306045 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Utica Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.928807265618417, 40.636878658995897 ] } },
+{ "type": "Feature", "properties": { "StationNam": "8 Avenue" }, "geometry": { "type": "Point", "coordinates": [ -74.010452763472742, 40.634609100318606 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Brooklyn Army Terminal" }, "geometry": { "type": "Point", "coordinates": [ -74.026151291704764, 40.640503081080553 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Roosevelt Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.894473345793699, 40.74647509379988 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Metropolitan Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.888801559789869, 40.712557336095315 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Wilson Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.904535650576378, 40.689015992566823 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Atlantic Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.90305740645374, 40.67511370230023 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Sutter Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.902059466898507, 40.668276405352785 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Livonia Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.900550043794993, 40.663776788492768 ] } },
+{ "type": "Feature", "properties": { "StationNam": "Flatbush Av - Nostrand Av" }, "geometry": { "type": "Point", "coordinates": [ -73.948084222954662, 40.630681574913794 ] } },
+{ "type": "Feature", "properties": { "StationNam": "East 16 Street" }, "geometry": { "type": "Point", "coordinates": [ -73.961527819563216, 40.629144456963289 ] } },
+{ "type": "Feature", "properties": { "StationNam": "4 Avenue" }, "geometry": { "type": "Point", "coordinates": [ -74.022022809651972, 40.637530054170078 ] } },
+{ "type": "Feature", "properties": { "StationNam": "New Utrecht Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.99689043323788, 40.626396500123541 ] } },
+{ "type": "Feature", "properties": { "StationNam": "McDonald Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.976619870967539, 40.627977124701992 ] } }
+]
+}
