@@ -92,7 +92,7 @@ $(window).on('load', function() {
             'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
           minZoom: 1,
           maxZoom: 18,
-          id: "streets-v12",
+          id: "mapbox/streets-v12",
           tileSize: 512,
           zoomOffset: -1,
           accessToken:
