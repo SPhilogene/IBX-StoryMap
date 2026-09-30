@@ -7,9 +7,6 @@
 ]
 }, 
 {
-"type": "FeatureCollection",
-"name": "stops",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "StationNam": "Grand Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.886318998130164, 40.730915985954987 ] } },
 { "type": "Feature", "properties": { "StationNam": "Eliot Avenue" }, "geometry": { "type": "Point", "coordinates": [ -73.884869080223794, 40.722394768938294 ] } },
